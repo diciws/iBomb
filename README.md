@@ -1,5 +1,5 @@
-# Bomber
-Bomber is a 2D Flat Game in Javascript, place a Bomb and destroy Chests in your World
+# iBomb
+iBomb is a 2D Flat Game in Javascript, place a Bomb and destroy Chests in your World
 
 The aim is to destroy all Chests.
 
