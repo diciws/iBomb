@@ -14,4 +14,7 @@ The aim is to destroy all Chests.
 - With the Key A you place a Bomb
 - To restart the Game reload or press F5
 
+<h1>License</h1>
+
+
 
